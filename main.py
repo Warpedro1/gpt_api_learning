@@ -17,6 +17,13 @@ def carrega(nome_arquivo):
     except IOError as e:    # IOError >>> problema relacionado à operação de entrada/saída (I/O).Isto inclui operações como abrir,  
         print(f"Erro: {e}") # ler ou gravar arquivos, ou operações de rede, que envolvem comunicação com outros dispositivos ou sistemas.
 
+def salva(nome_arquivo, conteudo):
+    try: 
+        with open(nome_arquivo, "w", encoding="utf-8") as arquivo:
+            arquivo.write(conteudo)
+    except IOError as e:
+        print(f"Erro ao salvar: {e}")
+
 prompt_sistema = """
 Identifique o perfil de compra para cada cliente a seguir.
 
