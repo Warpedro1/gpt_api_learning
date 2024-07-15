@@ -1,0 +1,11 @@
+Recomendação: 
+
+Com base no status e nos detalhes da transação, como a transação está marcada como 'Possível Fraude', a recomendação é a seguinte:
+
+1. "Acionar setor Anti-Fraude": Dada a severidade potencial do caso e o alto valor da transação, é crucial que o setor de anti-fraude seja notificado imediatamente para iniciar uma investigação detalhada. Eles devem verificar se a atividade coincide com os padrões de comportamento do cliente e se há alguma justificativa para o uso fora do padrão deste cartão de crédito.
+
+2. "Notificar Cliente": Nós também devemos entrar em contato com o cliente para validar a transação. Essa ação permitirá que o cliente confirme se a transação é legítima ou não. Cuidado deve ser tomado para manter a segurança do cliente, garantindo que suas informações pessoais não sejam comprometidas durante a comunicação.
+
+Classificação de Fraude: 
+
+A fraude pode ser classificada como "Fraude de cartão de crédito não presente", uma vez que este tipo de fraude geralmente ocorre em situações onde o cartão não é fisicamente apresentado ao comerciante no momento da transação, como nas transações online. A investigação aprofundada pelo setor Anti-Fraude vai confirmar se é de fato esse tipo de fraude.
